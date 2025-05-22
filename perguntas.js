@@ -1,55 +1,50 @@
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é a fonte de energia mais usada no brasil?',
+    'Energia hidrelétrica'
 )
 
+criaCartao(
+    'Língua Inglesa',
+    'O que é do e does?',
+    'são auxiliares usados para formar frases negativas e interrogativas e para enfatizar verbos no presente simples'
+)
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é o css',
+    'é uma linguagem de programação usada para estilizar.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Resolução de Problemas',
+    'Como se calcula o índice de cocção(IC)?',
+    'IC= PC/PL'
+)
+
+
+criaCartao(
+    'Projeto de Vida',
+    'O que é Mercado Digital?',
+    'O mercado digital refere-se a todas as atividades comerciais que ocorrem online, como compra, venda, publicidade, atendimento ao cliente e outras interações '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biotecnologia',
+    'Qual é a célula presente nas plantas?',
+    'Eucarionte vegetal'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Robótica',
+    'o que é um Circuito Elétrico?',
+    'É um trajeto composto por vários componentes elétricos interconectados que produzem energia.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    '',
-    '',
-    ''
-)
-
-criaCartao(
-    '',
-    '',
-    ''
+    'Educação Financeira',
+    'O que é consumo consciente?',
+    'É gastar o dinheiro de forma consciente evitando desperdícios'
 )
 
 criaCartao(
