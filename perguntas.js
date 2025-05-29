@@ -1,4 +1,3 @@
-
 criaCartao(
     'Geografia',
     'Qual é a fonte de energia mais usada no brasil?',
